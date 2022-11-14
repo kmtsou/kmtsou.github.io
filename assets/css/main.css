@@ -72,6 +72,29 @@ input, select, textarea {
 	appearance: none;
 }
 
+.profile-picture {
+	width: 310px;
+	height: 310px;
+}
+
+.project-button-link {
+	border: none;
+}
+
+.bio-header {
+	display: flex;
+	justify-content: center;
+}
+
+.contact-info {
+	display: flex;
+	justify-content: center;
+}
+
+#phone-number {
+	margin-right: 60px;
+}
+
 /* Basic */
 
 	@-ms-viewport {
